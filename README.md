@@ -54,8 +54,8 @@ dont lequel on va toute le traitement et les calcules, etc.. </span>
 <br/>
 <br/> 
 <h4>3/ Couche Présentation : C'est dont laquel on instancie et on invoque les méthodes </h4>
-<span> - Voici quelques captures d'écrans de cette couche, comme vous voyez, nous avons créé classe, dont lequel on doit instancier les objets et invoquer
-les méthodes que on veut utiliser, autrement c'est celui-ci on doit satisfait les dépendances entre une interface et une implémentation de cette interface,
+<span> - Voici quelques captures d'écrans de cette couche, comme vous voyez, nous avons créé une classe, dont lequel on doit instancier les objets et invoquer
+les méthodes que on veut utiliser, autrement dit c'est celui-ci on doit satisfait les dépendances entre une interface et une implémentation de cette interface,
 mais à ce niveau là, il fallait de dire qu'il existe 2 façon pour le faire, il y'a ce que on appelle l'instanciation statique mais cette dernière impose trés 
 souvent des problèmes au niveau de la maintenance, et l'autre façon s'appelle l-instanciation dynamique.</span> 
 <hr>
